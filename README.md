@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Skilled in HTML, CSS, JavaScript (ES6+), React, Node.js, Express, and MongoDB.<br>⚛️ I enjoy working with React, Redux, Next.js, and modern UI/UX practices.<br>🧠 Strong foundation in Data Structures & Algorithms (JavaScript) and problem-solving.<br>☁️ Familiar with Git, Docker, AWS, CI/CD, and cloud deployments.<br>🚀 Open to work — actively seeking Frontend / Full Stack Developer opportunities.
+💻 Skilled in HTML, CSS, JavaScript (ES6+), React, Node.js, Express, and MongoDB, SQL (Basic – MongoDB Queries).<br>⚛️ I enjoy working with React, Redux, Next.js, and modern UI/UX practices.<br>🧠 Strong foundation in Data Structures & Algorithms (JavaScript) and problem-solving.<br>☁️ Familiar with Git, Docker, AWS, CI/CD, and cloud deployments.<br>🚀 Open to work — actively seeking Frontend / Full Stack Developer opportunities.
 
 
 ## 🌐 Socials:
